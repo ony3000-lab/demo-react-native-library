@@ -1,5 +1,5 @@
 {
-  "name": "react-native-demo-react-native-library",
+  "name": "@ony3000/demo-react-native-library",
   "version": "0.1.0",
   "description": "react-native 라이브러리 테스트",
   "main": "./lib/module/index.js",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-demo-react-native-library-example",
+    "example": "yarn workspace demo-react-native-library-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",

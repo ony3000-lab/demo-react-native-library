@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-demo-react-native-library';
+import { multiply } from '@ony3000/demo-react-native-library';
 
 const result = multiply(3, 7);
 

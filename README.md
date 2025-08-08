@@ -1,4 +1,4 @@
-# react-native-demo-react-native-library
+# demo-react-native-library
 
 react-native 라이브러리 테스트
 
@@ -6,7 +6,7 @@ react-native 라이브러리 테스트
 
 
 ```sh
-npm install react-native-demo-react-native-library
+npm install @ony3000/demo-react-native-library
 ```
 
 
@@ -14,7 +14,7 @@ npm install react-native-demo-react-native-library
 
 
 ```js
-import { multiply } from 'react-native-demo-react-native-library';
+import { multiply } from '@ony3000/demo-react-native-library';
 
 // ...
 
