@@ -1,6 +1,6 @@
 {
   "name": "demo-react-native-library",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "react-native 라이브러리 테스트",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
