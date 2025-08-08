@@ -4,23 +4,19 @@ react-native 라이브러리 테스트
 
 ## Installation
 
-
 ```sh
-npm install @ony3000/demo-react-native-library
+npm install demo-react-native-library
 ```
-
 
 ## Usage
 
-
 ```js
-import { multiply } from '@ony3000/demo-react-native-library';
+import { multiply } from 'demo-react-native-library';
 
 // ...
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
